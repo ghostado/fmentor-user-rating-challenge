@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fmentor-user-rating-challenge/static/css/main.95fe8729.css",
+    "main.js": "/fmentor-user-rating-challenge/static/js/main.2caa5a65.js",
+    "index.html": "/fmentor-user-rating-challenge/index.html",
+    "main.95fe8729.css.map": "/fmentor-user-rating-challenge/static/css/main.95fe8729.css.map",
+    "main.2caa5a65.js.map": "/fmentor-user-rating-challenge/static/js/main.2caa5a65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95fe8729.css",
+    "static/js/main.2caa5a65.js"
+  ]
+}
